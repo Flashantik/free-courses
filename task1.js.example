@@ -1,3 +1,6 @@
 /* Task 1 */
+let tenSys = parseInt(process.argv[2], process.argv[3])
+let answerSys = tenSys.toString(process.argv[4])
 
+console.log(answerSys)
 /* Put your code here */
